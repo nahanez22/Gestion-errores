@@ -1,0 +1,2 @@
+{"level":"error","message":"error Error:  Atención, esto es un error","service":"user-service"}
+{"level":"error","message":"Finally siempre se ejecuta","service":"user-service"}
